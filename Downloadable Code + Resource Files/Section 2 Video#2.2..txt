@@ -1,0 +1,10 @@
+Section 2: Explore the MindStudo Workspace and Editor
+
+Due to updates on the platform/app, the "Send Message" block is now divided into two blocks:
+
+Generate Text: Sends a message prompt to the AI and returns the AI's response, which can be saved to a variable.
+Display Text: Shows text to the user exactly as written and can use variables.
+
+In the Email Funnel Generator Template example, both the first and second "Send Message" blocks will now be "Generate Text" blocks.
+
+Additionally, the "functions section" now includes pre-built blocks accessible via an API key for users with access to this service.

@@ -1,0 +1,8 @@
+Section 3: Query data
+
+In the video, I mentioned adding instructions in the query template, such as "Find me relevant information about...," as if I am directing an AI to scrape the vector database. 
+However, please note that the block simply queries the datasource for semantic meaning, so adding these instructions doesn't help. 
+You can test this by removing the extra instructions and running the workflow with and without them. 
+The only important dynamic value in the query is the request itself, which the block uses to search the datasource for the best match.
+
+Please also note that to get a better response to your query data, you can lower the temperature in the model settings.

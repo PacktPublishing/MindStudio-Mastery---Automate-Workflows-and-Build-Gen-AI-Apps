@@ -1,0 +1,16 @@
+Section 3: Model settings
+
+> When adjusting the settings for the model, it's recommended to keep the temperature around the middle range for optimal performance. For OpenAI, set the value to 1. For Anthropic and most other models, set the value to 0.5.
+
+> Note that with the latest release, there will be some UI updates in the "Model Settings":
+
+  -Models update: https://mindstudio.ai/platform/models
+
+  -Model picker in the editor.
+
+  -Price/usage update: https://mindstudio.ai/pricing
+
+> Model types will be restricted based on the chosen plan. All options available on other pricing tiers can be found on the Teams tier, which was previously known as the Pro tier.
+
+> Another update to the "Model Settings" will allow users to choose an image model directly in the chat. Once an underlying model is selected, an additional field will appear to allow the selection of an image model. 
+Users will be able to ask the AI to generate an image in the chat portion of the app, with usage rates applied. This will be available to Teams-tier users only.

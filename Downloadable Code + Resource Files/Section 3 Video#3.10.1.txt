@@ -1,0 +1,6 @@
+Section 3: Logic blocks
+
+Erratum:
+
+In the video, we used two "send message" blocks to check if the logic block is using the right path. Instead, try setting the 'Sender' to System. This works better for checking if the logic block is choosing the right path. 
+If the sender is set to user, the AI will try to answer the prompt instead of just showing it.

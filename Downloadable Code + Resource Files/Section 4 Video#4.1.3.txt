@@ -1,0 +1,8 @@
+Section 4: Internal HR Job bot
+
+Erratum:
+
+
+
+In the video, we set the temperature to 1 for Claude 3 Opus. However, setting the temperature to 1 is the maximum value for Claude 3 Opus, which may not yield optimal results. 
+It is recommended to set the temperature to 0.5, or in the middle range, to achieve the best results.

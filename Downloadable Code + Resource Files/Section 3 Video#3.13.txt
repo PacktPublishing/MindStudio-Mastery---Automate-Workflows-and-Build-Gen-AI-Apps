@@ -1,0 +1,3 @@
+Section 3: Extensibility using Zapier
+
+Please note that MindStudio also has a Zapier integration for users to send data. The workflow requires special syntax.

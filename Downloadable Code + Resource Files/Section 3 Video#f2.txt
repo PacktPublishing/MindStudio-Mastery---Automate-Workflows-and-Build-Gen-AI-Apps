@@ -1,0 +1,6 @@
+Section 3: RAG Part 2
+
+Note that in the video, the RAG space is filled because we used the Starter plan. Other plans offer more space.
+
+
+When using chat, aim to use a maximum of 5 chunks, as this is the recommended limit for query data sources.

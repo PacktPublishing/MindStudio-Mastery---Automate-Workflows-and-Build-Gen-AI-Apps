@@ -1,0 +1,7 @@
+Section 2: Create and publish an AI app from scratch
+
+Note that "Send Message" is now split into two options: "Generate Text" and "Display Text."
+
+Use "Generate Text" when you want to send a message from the user to the AI.
+
+When referencing variables in "Send Message," remember that variables are case-sensitive. You must use the exact same name as in the user input configuration.

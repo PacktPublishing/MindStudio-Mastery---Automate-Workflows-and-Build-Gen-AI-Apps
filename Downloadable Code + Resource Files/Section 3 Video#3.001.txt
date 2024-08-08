@@ -1,0 +1,3 @@
+Section 3: Chat
+
+With the platform update, the "chat" block now includes the entire conversation history for each new message called the "memory." This means that with every interaction, the cost per message goes up.
